@@ -70,7 +70,7 @@ nav {
 }
 
 .hero-card {
-  background-image: url('assets/Va atwork.jpg');
+background-image:url(assets/assets/Va-atwork.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -83,7 +83,7 @@ nav {
 
   width: 80%;          /* a bit smaller width */
   max-width: none;   /* keep max width */
-  min-height: 700px;   /* not too tall */
+  min-height: 900px;   /* not too tall */
   margin: 0 auto;
   box-sizing: border-box;
   position: relative;  /* in case you have positioned elements inside */
@@ -195,8 +195,8 @@ nav {
 
 .card2b img {
   width: 100%;
-  max-width: 400px;
-  height: 300px;
+  max-width: 600px;
+  height: 500px;
   border-radius: 12px;
   object-fit: cover;
 }
@@ -1180,7 +1180,7 @@ nav {
 }
 
 .faq-left h2 {
-  font-size: 38px;
+  font-size: 36px;
   margin-bottom: 10px;
   color: #111;
 }
@@ -1195,7 +1195,7 @@ nav {
 .smiley-image {
   width: 400px;
   height: auto;
-  max-height: 250px;
+  max-height: 450px;
   margin-top: 15px;
 }
 
@@ -1213,7 +1213,7 @@ nav {
 .faq-question {
   background: none;
   border: none;
-  font-size: 26px;
+  font-size: 28px;
   font-weight: bold;
   width: 100%;
   text-align: left;
@@ -1235,7 +1235,7 @@ nav {
 }
 
 .faq-answer {
-  font-size: 22px;
+  font-size: 26px;
   color: #444;
   line-height: 1.5;
   margin-top: 10px;
